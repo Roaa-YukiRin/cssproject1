@@ -10,5 +10,5 @@ css project 1 in sololearn app
 ### “Run” the code to preview the page. Then “save” your progress and move on
 ---------------------------------------------------------------------------------
 # solotion
-## part 1 :- https://youtu.be/g0_mtshf5Cc
-## part 2:- https://youtu.be/ONL1mMQ8diw
+## part 1 (html) :- https://youtu.be/g0_mtshf5Cc
+## part 2 (html):- https://youtu.be/ONL1mMQ8diw
